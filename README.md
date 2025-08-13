@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My Name is Lokesh, and im working as a Machine Learning Engineer@Protectt.AI ,intrested in all things Python ,NLP,Data Science, LLM's and GEN-AI
+
+- 🔭 I’m currently working on Agent-AI Products
+- 🌱 I’m currently learning MCP Architectures
+- 👯 I’m looking to collaborate on intresting projects 
 
 <!--
 **lokeshbattula/lokeshbattula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
